@@ -1,0 +1,15 @@
+{
+  "name": "xx",
+  "short_name": "xx",
+  "display": "standalone",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "358x393",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#f00",
+  "theme_color": "#0f0"
+}
